@@ -5,7 +5,7 @@ import edu.cms.model.DataStore;
 import edu.cms.view.MainFrame;
 
 import javax.swing.*;
-
+// Added for testing Github branch workflow
 public class App {
     public static void main(String[] args) {
         SwingUtilities.invokeLater(() -> {
